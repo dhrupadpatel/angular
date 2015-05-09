@@ -1,0 +1,7 @@
+body{background: #333333;font-size: 1.2em;color: white;} 
+.LoginArea{background: #dedede;height: 350px;width:450px;margin: 100px auto;border-radius: 8px;} 
+h1.title{padding: 10px 15px;padding-bottom: none;margin: none;color: #333;} 
+.form-area{width: 100%;}
+.form-area label{width: 100%;padding: 15px;color: black} 
+.form-area input{width: 93%;margin: 15px;line-height: 30px;border-radius: 5px;}
+.form-area input[type='submit']{width: 93%;margin: 15px;line-height: 30px;border-radius: 5px;background: gray;color: white;cursor: pointer;}
